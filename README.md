@@ -36,4 +36,4 @@ This README will be updated as we progress with the project. Stay tuned for more
 📌 **Contact & Credits**  
 This challenge was organized by **BNP Paribas Personal Finance** in collaboration with **École Normale Supérieure**. The challenge details and data were provided by the Challenge Data platform.
 
-For official queries regarding the competition, contact **lucie.poirier@bnpparibas-pf.com**.
+
