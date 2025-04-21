@@ -11,7 +11,7 @@ In this challenge, the focus is on analyzing transaction-level basket data from 
 ## Objective
 The challenge is to identify fraudulent transactions based on basket data, which includes details about purchased items, their categories, prices, manufacturers, models, and unique retailer codes. The task is to:
 - **Develop a fraud detection model** that learns patterns from transaction data. 
-- **Predict fraudulent cases** based on a given test dataset.
+- **Predict fraudulent cases** based on a given test dataset. 
 - **Maximize model performance** using the PR-AUC (Precision-Recall Area Under the Curve) metric.
 
 ## Data Description
