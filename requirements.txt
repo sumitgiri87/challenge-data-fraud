@@ -4,3 +4,5 @@ scikit-learn
 imblearn
 matplotlib
 openpyxl
+category_encoders
+seaborn
