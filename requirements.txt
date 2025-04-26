@@ -6,3 +6,6 @@ matplotlib
 openpyxl
 category_encoders
 seaborn
+fuzzywuzzy
+python-Levenshtein
+rapidfuzz
