@@ -16,7 +16,7 @@ The challenge is to identify fraudulent transactions based on basket data, which
 
 ## Data Description
 The dataset consists of **115,988 observations** with **147 columns**, including:
-- **Item details:** Category, manufacturer, model, price, and quantity.
+- **Item details:** Category, manufacturer, model, price, and quantity. 
 - **Fraud flag:** Whether a transaction is fraudulent (`1`) or legitimate (`0`).
 - **Highly imbalanced data:** Only **1.4%** of the transactions are fraudulent.
 
