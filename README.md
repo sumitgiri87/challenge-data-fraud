@@ -135,7 +135,7 @@ Key libraries used:
 
 3. **Run EDA and Training**
    ```bash
-   jupyter notebook notebooks/03_Model_Training.ipynb
+   jupyter notebook src/model_training.ipynb
    ```
 
 4. **Generate Predictions**
