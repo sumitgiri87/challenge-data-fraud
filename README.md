@@ -6,7 +6,7 @@ This project is part of the **Challenge Data** platform hosted by **École Norma
 ## Challenge Context
 BNP Paribas Personal Finance is a leader in consumer credit across Europe. As part of its risk management strategy, the company leverages advanced statistical models to mitigate credit risks. Fraud detection is a crucial aspect of this process since fraudsters continuously attempt to manipulate financial systems to their advantage.
 
-In this challenge, the focus is on analyzing transaction-level basket data from one of BNPP PF's retail partners. The goal is to develop machine learning models that can accurately detect fraudulent transactions and reduce financial risks.
+In this challenge, the focus is on analyzing transaction-level basket data from one of BNPP PF's retail partners. The goal is to develop machine learning models that can accurately detect fraudulent transactions and reduce financial risks. 
 
 ## Objective
 The challenge is to identify fraudulent transactions based on basket data, which includes details about purchased items, their categories, prices, manufacturers, models, and unique retailer codes. The task is to:
